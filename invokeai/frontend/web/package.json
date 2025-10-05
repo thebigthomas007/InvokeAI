@@ -72,7 +72,7 @@
     "es-toolkit": "^1.39.5",
     "filesize": "^10.1.6",
     "fracturedjsonjs": "^4.1.0",
-    "framer-motion": "^11.10.0",
+    "framer-motion": "^11.18.2",
     "i18next": "^25.2.1",
     "i18next-http-backend": "^3.0.2",
     "idb-keyval": "^6.2.2",
